@@ -1,0 +1,40 @@
+        <!-- <script>
+
+        var pastet = prompt("cite cutii de pastet");
+        var pachete = prompt("cite pachete de mivina")
+        var lapte = prompt("citi litri de lapte")
+
+        alert(  pastet*15         /*2 cutii pastet fiecare cite 15 lei ; */
+                        +
+                10/10*pachete      /* 3 pachete din 10 care coste tot 10 lei */
+                        +
+                lapte*20)        /* 1L de lapte care costa 20 lei */
+        </script> -->
+
+
+<script>
+
+// omu( lei )  -> dolaro/euro
+
+var suma_mdl = prompt("citi lei ai?>??");
+
+var  usd_2_mdl = 17.50;
+var  eur_2_mdl = 19.00;
+var  comision = 2/100; //2%
+
+
+//scoatem comision
+
+suma_mdl = suma_mdl* (1 - comision); // 100% - 2%
+
+//calcule + afisare
+
+var suma_usd = suma_mdl / usd_2_mdl;
+var suma_eur = suma_mdl / eur_2_mdl;
+
+alert( "in USD:" + suma_usd);
+alert( "in EUR:" +  suma_eur);
+
+
+
+</script>

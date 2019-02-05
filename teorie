@@ -1,0 +1,68 @@
+                  framework
+
++ fast spin off
++ ready to use components
++ plugins/extensions
++ xbrowser
++ adaptive/responsive
++ mobile first
++ 100+ developers
++ bags/...
++ docs + tuts + strategies
++ trust
+
+                 top css framework
+* Bootstrap    v3.3.7       bootstrap-4.ru
+* Semantic-UI
+* Foundation
+* Materialize
+* Material UI
+* Pure css
+
+
+
+-------------------------------------------------------------------------------
+                            JavaScript
+-------------------------------------------------------------------------------
+JS - JavaScript ??  ECMAScript - ES
+Web Programming Language
+ + Browser (frontent)
+ (HTML - structude , csss - style,  JS - behaviour)
+ + Node.js (General Purpose)
+ + Gaming
+ + Apps
+ + Extesions
+ + Data Exchange
+ + ...
+
+
+JS -> script/ program(
+     * expression / actions / commands;
+     * case sensitive
+        x nu este X
+     * expression:
+          - identifiers/ names -----> alert("Hi")
+          - values  -------> 2+2,  "Hi",  .......
+          - operators/ operations(actions) -----> +,-,*,/,.......
+          - reserved words  ----> if, else, for, .....
+          - prefix / labels ----> conts, let , var,
+          - {}              ----> container / block code
+          - comments   /*  block comment */      ,    //line
+
+     * basic functions  (read/write):
+          - alert( ... )       ------>  info -----> user
+          - confirm ( ... )    -----> info -----> user
+                               <----- reactia --- user
+          - prompt ( ... )     -----> info -----> user
+                               <----- valoare --- user
+          - console.log( ... ) -----> console(F12)
+
+     * data types
+          - Number (100,-1, 0.5 , )
+          - String ("Hello", "123456", ...)
+               + "double" , 'single' , `modern`  ---> pt a identifica in text
+          - Boolean (true / False)
+
+     * Variables
+          - var renumire = valoare;                 
+     )
