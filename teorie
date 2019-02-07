@@ -64,5 +64,27 @@ JS -> script/ program(
           - Boolean (true / False)
 
      * Variables
-          - var renumire = valoare;                 
+          - var renumire = valoare;
      )
+
+
+
+
+  1)  Denumiri var
+       "snake_case"
+  2)  Denumiri const
+       "CONSTANT_VALUE"
+
+
+                  --------     Operators     ----------
+
+  *  unary, binary, ternary
+
+  1 + 2    binary
+  10+      unary
+
+  *  arithmetic  (+, / , + , - , %) ---->Number
+
+  *  comparison  (<.> , <= , >= , == (Value) , ===(identic) , != , !== )
+
+  *  logic  (! - not , && - and , || - or)
