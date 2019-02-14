@@ -50,7 +50,7 @@ JS -> script/ program(
           - comments   /*  block comment */      ,    //line
 
      * basic functions  (read/write):
-          - alert( ... )       ------>  info -----> user
+          - alert( ... )       ---->  info -----> user
           - confirm ( ... )    -----> info -----> user
                                <----- reactia --- user
           - prompt ( ... )     -----> info -----> user
@@ -88,3 +88,54 @@ JS -> script/ program(
   *  comparison  (<.> , <= , >= , == (Value) , ===(identic) , != , !== )
 
   *  logic  (! - not , && - and , || - or)
+
+
+  --------------------    linear Programing   ---------------
+
+  <script>
+
+  alert("a"); //String
+  0-0;        //Number
+  alert("B");
+  1+1;
+  alert("C");
+
+  </script>
+
+  --------------------    linear Programing   ---------------
+
+
+  --------------------  NON linear Programing   ---------------
+
+
+  // flow control structures
+  // branching - if/else , switch / case
+  // looping   - while, for, do while/ break, continue
+
+
+
+
+
+  --------------------  NON  linear Programing   ---------------
+
+
+
+----------------------------------------------------------------
+  <script>
+
+  if( expression/ condition){
+    // code if true
+  }else {
+    //code if true
+  }
+
+  </script>
+------------------------------------------------------------------
+
+ --------------------------    while      -----------------------
+// Start condition
+
+while (expression/ condition){
+   // code to repeat
+   // step
+}
