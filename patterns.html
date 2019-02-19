@@ -1,0 +1,25 @@
+<body style="font-family:monospace; line-height: 8px;">
+
+<script>
+////////INPUT DE LA USER/////////////
+
+var bomb_r = prompt("Pe ce rind este B**MBA??");
+var bomb_c = prompt("Pe ce coloana este B**MBA??");
+
+//////   DESENEAZA HARTA
+for(var r=1; r<=10; r++){
+
+for (var c = 1; c <= 10 ; c++) {
+  if(r== bomb_r&&c==bomb_c) {
+    document.write("+");
+  }else {
+  document.write("*");
+}
+}
+document.write("<br>");
+
+}
+
+</script>
+
+</body>
