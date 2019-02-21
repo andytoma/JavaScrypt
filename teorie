@@ -1,4 +1,4 @@
-                  framework
+                    framework
 
 + fast spin off
 + ready to use components
@@ -139,3 +139,46 @@ while (expression/ condition){
    // code to repeat
    // step
 }
+
+-------------------------
+
+//start
+white ( condition ){
+//code
+//step
+}
+----------------------------------------------------------------
+---------------------------    switch   ------------------------
+
+switch (expression){       // ===
+case value1: codeA; break;
+case value2: codeB; break;
+case value3: codeC; break;
+//.....
+default: codeDefault; break;
+}
+
+----------------------------------------------------------------
+--------------------    for    ------------------------------
+
+for( start; condition ; step ){
+//code
+
+}
+--------------------------------------------------------------
+-------------------- do while      ------------------------
+
+//start
+do{
+    // code
+    //steps
+}while (condition) ;
+
+------------------------------------------------------------
+
+
+
+
+pozitia lui sa fie haotica dupa F5
+trebuie de aratat bomba
+trebuie de limitat miner sa nu iasa de pe harta
