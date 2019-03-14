@@ -215,4 +215,20 @@ function name( arg1, arg2, arg3, ...){
   return value;
 }
 
---------------------
+--------------------------------------------------------------
+
+//   99% information -> object (thing)
+
+// container -> structured
+// * properties
+// * methods                               (functii)
+-------------------     Array    --------------------------
+colectie (liste) ordonata de date
+
+
+pt acasa
+
+plasato o caplana
+daca guzganului nimereste in capcana sal distrugem si sa ghistigam 100 unitiat si sa se opreasca
+si o variabila true / folse
+daca guzganului ii true sal miste
